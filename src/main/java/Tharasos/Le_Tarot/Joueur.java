@@ -1,6 +1,7 @@
-package Tharasos.Le_Tarpt;
+package Tharasos.Le_Tarot;
 
 public class Joueur {
+	
 	String nom;
-	int point ;
+	int point;
 }

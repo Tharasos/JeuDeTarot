@@ -1,4 +1,4 @@
-package Tharasos.Le_Tarpt;
+package Tharasos.Le_Tarot;
 
 /**
  * Hello world!
